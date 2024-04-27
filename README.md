@@ -35,12 +35,12 @@
    <tr>
     <td>Supervised Machine Learning: Regression and Classification</td>
     <td><a href = "https://coursera.org/share/f37d3ccf62ced39df6486ddf976c65a4" target="_blank">Deeplearning.ai</a></td>
-    <td>&#10003;</td>
+    <td align="center">&#10003;</td>
   </tr>
   <tr>
     <td>Intermediate Python</td>
     <td><a href = "https://www.datacamp.com/completed/statement-of-accomplishment/course/88c0d9689d5fecfba43275b0b4756ccd3980042f" target="_blank">DataCamp</a></td>
-    <td>&#10003;</td>
+    <td align="center">&#10003;</td>
   </tr>
   </tr>
   <tr>
@@ -59,7 +59,7 @@
   <tr>
     <td>Supervised Learning with scikit-learn</td>
     <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/6ec86c4a1efdeab2655d83d451bf9b2a7549ebb3?raw=1">DataCamp</a></td>
-    <td>&#10003;</td>
+    <td align="center">&#10003;</td>
   </tr>
   <tr>
     <td>Advanced Learning Algorithms</td>
@@ -70,7 +70,7 @@
   <tr>
     <td>Writing Efficient Python Code</td>
     <td><a href = "https://campus.datacamp.com/"> DataCamp</a></td>
-    <td>&#10003;</td>
+    <td align="center">&#10003;</td>
   </tr>
   
 
