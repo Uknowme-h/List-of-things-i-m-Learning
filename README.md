@@ -58,7 +58,7 @@
 
   <tr>
     <td>Supervised Learning with scikit-learn</td>
-    <td><a href="https://campus.datacamp.com/courses/supervised-learning-with-scikit-learn/">DataCamp</a></td>
+    <td><a href="https://www.datacamp.com/statement-of-accomplishment/course/6ec86c4a1efdeab2655d83d451bf9b2a7549ebb3?raw=1">DataCamp</a></td>
     <td>&#10003;</td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@
   <tr>
     <td>Writing Efficient Python Code</td>
     <td><a href = "https://campus.datacamp.com/"> DataCamp</a></td>
-    <td> . . . </td>
+    <td>&#10003;</td>
   </tr>
   
 
