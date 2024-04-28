@@ -73,5 +73,10 @@
     <td align="center">&#10003;</td>
   </tr>
   
+  <tr>
+    <td>Ensemble Methods in Python</td>
+    <td><a href = "https://app.datacamp.com/learn/courses/ensemble-methods-in-python"> DataCamp</a></td>
+    <td align="center"></td>
+  </tr>
 
 </table>
