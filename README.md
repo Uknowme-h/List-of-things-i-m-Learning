@@ -53,7 +53,7 @@
     <td>Linear Algebra for Machine Learning and Data Science
 </td>
     <td><a href = "https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science" target="_blank">DeepLearning.Ai</a></td>
-    <td>. . .</td>
+    <td align='center'>&#10003;</td>
   </tr>
 
   <tr>
