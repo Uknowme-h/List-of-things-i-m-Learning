@@ -79,4 +79,10 @@
     <td align="center"></td>
   </tr>
 
+  <tr>
+    <td>Image Modeling with Keras</td>
+    <td><a href="https://app.datacamp.com/learn/courses/convolutional-neural-networks-for-image-processing">DataCamp</a></td>
+    <td align="center"></td>
+  </tr>
+
 </table>
